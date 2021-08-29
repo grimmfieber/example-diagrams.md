@@ -3,7 +3,7 @@
 This diagram has created for patika.dev assignment.
 
 
-# Animals Hiearchy
+# Animals Hierarchy
 ![animals](https://user-images.githubusercontent.com/43934894/131231656-c74e68f2-123a-4e56-b07a-f1c9fd9a7024.jpg)
 This diagram has created for patika.dev assignment.
 
